@@ -1,0 +1,5 @@
+build/
+
+points.npy
+monte-carlo-pi
+monte-carlo-pi.exe
